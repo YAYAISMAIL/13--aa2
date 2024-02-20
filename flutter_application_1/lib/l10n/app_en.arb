@@ -1,0 +1,21 @@
+{
+    "app_title": "Islami",
+    "quran": "Quran",
+    "hadeath": "Hadeath",
+    "sebha": "Sebha",
+    "radio": "Radio",
+    "sura_Name": "Sura-Name",
+    "hadeath_Name": "Hadeath-Number",
+    "tasbeh_Count": "Number of tsbeah",
+    "tasbeah1": "Sob-Han Allah",
+    "tasbeah2": "Al-Hamdo-Lil-lah",
+    "tasbeah3": "Alla-huh Akber",
+    "fehres": "Index",
+    "setting": "Setting",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "app_mode": "App Mode",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
+}

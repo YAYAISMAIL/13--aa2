@@ -1,0 +1,21 @@
+{
+    "app_title": "إسلامي",
+    "quran": "قـرآن",
+    "hadeath": "حديث",
+    "sebha": "سبحة",
+    "radio": "إذاعة القرآن الكريم",
+    "sura_Name": "اسم الصورة",
+    "hadeath_Name": "اسم الحديث",
+    "tasbeh_Count": "عدد التسبيحات",
+    "tasbeah1": "سبحان الله",
+    "tasbeah2": "الحمدلله",
+    "tasbeah3": "الله أكبر",
+    "fehres": "الـفهرس",
+    "setting": "الاعدادات",
+    "language": "اللغة",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "app_mode": "نمط التطبيق",
+    "light_mode": "النهاري",
+    "dark_mode": "ليلى"
+}
